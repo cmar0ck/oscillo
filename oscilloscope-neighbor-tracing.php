@@ -325,5 +325,3 @@ catch (exception $e)
 {
     echo $e->getMessage() . "\n";
 } 
-
-?>
